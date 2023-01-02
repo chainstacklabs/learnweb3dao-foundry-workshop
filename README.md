@@ -85,9 +85,8 @@ Inside the src folder, create a file named `ERC20.sol`.  Paste the following cod
     import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
     import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol";
     import "@openzeppelin/contracts/access/Ownable.sol";
-    
     contract MyToken is ERC20, ERC20Burnable, Ownable {
-        constructor() ERC20("LWB3_Starter", "LWB3") {
+        constructor() ERC20("FoundryToken", "FTK") {
             _mint(msg.sender, 1000 * 10 ** decimals());
         }
     
