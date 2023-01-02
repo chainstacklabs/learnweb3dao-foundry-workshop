@@ -6,7 +6,7 @@ Feel free to follow this README at your own pace. The link to the workshop video
 
 ## Installing Foundry
 
-> This installation method has been tested on Linux and MacOS. You will need to install Rust and Cargo( Rust's package manager) before installing Foundry. Refer to Foundry docs for [detailed instructions](http://https://book.getfoundry.sh/getting-started/installation#on-windows-build-from-source "detailed instructions").
+> This installation method has been tested on Linux and MacOS. Windows users will need to build from Foundry's Github repo. Refer to Foundry docs for [detailed instructions](https://book.getfoundry.sh/getting-started/installation#on-windows-build-from-source "detailed instructions").
 
 To get started open your terminal, and run the following command-
 
