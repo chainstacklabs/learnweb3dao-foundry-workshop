@@ -31,7 +31,7 @@ foundryup
 ```
 
 And that's it. You now have Foundry installed into your system.
-If you face any errors while installing Foundry, refer to the [docs](http:/https://book.getfoundry.sh/ "docs").
+If you face any errors while installing Foundry, refer to the [docs](https://book.getfoundry.sh/ "docs").
 
 This installs 3 seperate CLI tools to into your system.
 
