@@ -23,7 +23,9 @@
 # Introduction to Foundry Learn Web3 DAO & Chainstack workshop
 
 This repository holds the code to be followed along with the Foundry workshop conducted by Chainstack on LWB3.
-Feel free to follow this README at your own pace. The link to the workshop video will be added later on.
+Feel free to follow this README at your own pace.
+
+[Workshop video](https://www.youtube.com/watch?v=FGl2gk3G71U).
 
 ## Installing Foundry
 
